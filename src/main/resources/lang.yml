@@ -1,0 +1,13 @@
+Prefix: "&6[&bXiaoJoinItem&6]"
+CD: "{prefix}&c请在{cd}秒后再尝试打开."
+BanWorld: "{prefix}&c该物品禁止在此世界使用."
+NoPermission: "{prefix}&c你没有权限这样做"
+SuccessReload: "{prefix}&a重载完成!"
+FailReload: "{prefix}&c重载失败!请前往控制台查看报错."
+NullCommand: "{prefix}&c未知指令."
+NullPlayer: "{prefix}&c玩家{player}不在线或不存在."
+Executed: "{prefix}&a已执行."
+NeedPlayer: "{prefix}&c只有玩家才能执行该操作."
+NoDrop: "{prefix}&c你不能丢弃这个物品"
+
+version: 1.0.0

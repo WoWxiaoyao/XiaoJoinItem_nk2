@@ -1,0 +1,18 @@
+name: XiaoJoinItem
+main: zbv5.cn.XiaoJoinItem.Main
+version: 1.0.0
+api: 2.0.0
+author: 逍遥
+permissions:
+  XiaoJoinItem.help:
+    description: 查询插件帮助所需权限
+    default: true
+  XiaoEnchant.Check:
+    description: 使用检测指令所需权限
+    default: op
+  XiaoEnchant.CheckOther:
+    description: 使用检测指令/指定玩家检测所需权限
+    default: op
+  XiaoEnchant.admin:
+    description: 使用全部功能所需权限
+    default: op
